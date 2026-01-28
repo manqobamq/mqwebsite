@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quantum Age Space</title>
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+
+  <!-- Theme CSS -->
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <h1>QUANTUM AGE SPACE</h1>
+    <p class="subtitle">
+      A field interface for quantum intelligence, consciousness, and future civilization.
+    </p>
+  </section>
+
+  <!-- Core Principles -->
+  <section class="section">
+    <h2>CORE PRINCIPLES</h2>
+    <div class="grid">
+      <div class="card">Reality is a Field</div>
+      <div class="card">Matter is Information</div>
+      <div class="card">Consciousness is Computation</div>
+      <div class="card">The Observer Shapes the System</div>
+    </div>
+  </section>
+
+  <!-- Knowledge Domains -->
+  <section class="section">
+    <h2>KNOWLEDGE DOMAINS</h2>
+    <div class="grid">
+      <div class="card">Quantum Science</div>
+      <div class="card">Energy & Frequency</div>
+      <div class="card">Bio-Quantum Intelligence</div>
+      <div class="card">AI & Civilization Systems</div>
+    </div>
+  </section>
+
+  <!-- Vision -->
+  <section class="section vision">
+    <h2>VISION</h2>
+    <p>
+      The Quantum Age is not a prediction.  
+      It is a shift in how reality is decoded, interacted with, and lived.
+    </p>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>© Quantum Age Space — Signal detected.</p>
+  </footer>
+
+</body>
+</html>
+/* =========================
+   QUANTUM AGE SPACE THEME
+   ========================= */
+
+/* CSS Variables (Quantum Palette) */
+:root {
+  --deep-space: #05070a;
+  --quantum-blue: #0a1aff;
+  --photon-cyan: #00f5ff;
+  --plasma-violet: #7a00ff;
+  --zero-white: #ededed;
+  --soft-gray: #9aa0a6;
+}
+
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Base Styles */
+body {
+  background-color: var(--deep-space);
+  color: var(--zero-white);
+  font-family: 'Inter', sans-serif;
+  line-height: 1.6;
+  text-align: center;
+}
+
+/* Headings */
+h1, h2 {
+  font-family: 'Orbitron', sans-serif;
+  letter-spacing: 0.2em;
+}
+
+/* Hero Section */
+.hero {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+  color: var(--photon-cyan);
+  margin-bottom: 1rem;
+}
+
+.subtitle {
+  max-width: 600px;
+  margin: 0 auto;
+  color: var(--soft-gray);
+  font-size: 1rem;
+}
+
+/* Sections */
+.section {
+  padding: 4rem 2rem;
+}
+
+.section h2 {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  color: var(--quantum-blue);
+}
+
+/* Grid Layout */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* Cards */
+.card {
+  border: 1px solid rgba(0, 245, 255, 0.2);
+  padding: 1.5rem;
+  font-size: 0.9rem;
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  border-color: var(--photon-cyan);
+  box-shadow: 0 0 15px rgba(0, 245, 255, 0.25);
+}
+
+/* Vision Section */
+.vision p {
+  max-width: 700px;
+  margin: 0 auto;
+  font-size: 1rem;
+  color: var(--soft-gray);
+}
+
+/* Footer */
+footer {
+  padding: 2rem;
+  font-size: 0.75rem;
+  color: var(--soft-gray);
+}
+
