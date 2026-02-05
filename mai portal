@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ntu Ongoni | Quantum Age Civilization</title>
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+
+<header>
+  <h1>NTU ONGONI</h1>
+  <p>A Quantum Age Digital Civilization</p>
+</header>
+
+<nav>
+  <a href="pages/about.html">About</a>
+  <a href="pages/governance.html">Governance</a>
+  <a href="pages/quantum-education.html">Quantum Education</a>
+  <a href="pages/departments.html">Departments</a>
+</nav>
+
+<section>
+  <h2>Vision</h2>
+  <p>
+    Ntu Ongoni exists to realign humanity with natural law through
+    self-education, quantum science, artificial intelligence, and
+    decentralized governance.
+  </p>
+</section>
+
+<section>
+  <h2>Digital Governance</h2>
+  <p>
+    80% of governance is executed digitally with AI systems assisting
+    decision-making, data analysis, and public services.
+  </p>
+</section>
+
+<footer>
+  <p>© 2026 Ntu Ongoni | Digital Sovereign Civilization</p>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
