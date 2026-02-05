@@ -1,0 +1,16 @@
+<h1>Departments of Ntu Ongoni</h1>
+
+<ul>
+  <li><a href="../departments/tourism.html">Tourism</a></li>
+  <li><a href="../departments/agriculture.html">Agriculture</a></li>
+  <li><a href="../departments/mining.html">Mining</a></li>
+  <li><a href="../departments/technology.html">Technology</a></li>
+  <li><a href="../departments/media.html">Media</a></li>
+  <li><a href="../departments/finance.html">Finance</a></li>
+  <li><a href="../departments/legal.html">Legal Affairs</a></li>
+  <li><a href="../departments/home-affairs.html">Home Affairs</a></li>
+  <li><a href="../departments/infrastructure.html">Infrastructure</a></li>
+  <li><a href="../departments/security.html">Safety & Security</a></li>
+  <li><a href="../departments/health.html">Health</a></li>
+  <li><a href="../departments/education.html">Education</a></li>
+</ul>
