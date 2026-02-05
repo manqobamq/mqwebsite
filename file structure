@@ -1,0 +1,39 @@
+ntu-ongoni/
+│
+├── index.html
+├── README.md
+├── favicon.ico
+│
+├── assets/
+│   ├── images/
+│   ├── icons/
+│   └── videos/
+│
+├── css/
+│   ├── main.css
+│   ├── layout.css
+│   ├── departments.css
+│
+├── js/
+│   ├── main.js
+│   ├── ai-assist.js
+│
+├── pages/
+│   ├── about.html
+│   ├── governance.html
+│   ├── quantum-education.html
+│   ├── departments.html
+│
+└── departments/
+    ├── tourism.html
+    ├── agriculture.html
+    ├── mining.html
+    ├── technology.html
+    ├── media.html
+    ├── finance.html
+    ├── legal.html
+    ├── home-affairs.html
+    ├── infrastructure.html
+    ├── security.html
+    ├── health.html
+    └── education.html
